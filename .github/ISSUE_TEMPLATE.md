@@ -2,7 +2,7 @@
 
 Please provide a succinct description of your issue.
 
-### Repro steps
+### Repro steps ###
 
 Please provide the steps required to reproduce the problem
 
